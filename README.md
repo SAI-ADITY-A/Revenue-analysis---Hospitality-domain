@@ -10,6 +10,21 @@ In this project, we conducted a detailed revenue analysis for "Atliq," a hotel c
 
 ## Features
 -> Comprehensive Data Analysis: Analyze revenue trends, customer demographics, and occupancy patterns.
+
 -> Dynamic Dashboard: An interactive Power BI dashboard displaying key performance metrics (KPI) such as revenue, ADR, occupancy rate, and RevPAR.
+
 -> Insights: Identify the most significant factors affecting revenue and suggest strategies for improvement.
+
+## Dashboard Overview
+The Power BI dashboard offers the following features:
+
+• Revenue Trends: Monthly, quarterly, and yearly breakdowns of revenue.
+
+• Occupancy Rate: Analysis of room occupancy trends.
+
+• ADR and RevPAR: Key metrics such as Average Daily Rate (ADR) and Revenue per Available Room (RevPAR).
+
+• Customer Segments: Revenue breakdown by customer demographics.
+
+• Seasonal and External Factors: Visualizations of the impact of external factors like holidays, events, and weather conditions on revenue.
 
